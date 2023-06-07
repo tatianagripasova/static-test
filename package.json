@@ -1,0 +1,22 @@
+{
+  "name": "static-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"Test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tatianagripasova/static-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatianagripasova/static-test/issues"
+  },
+  "homepage": "https://github.com/tatianagripasova/static-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
