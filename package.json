@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"Test\""
+    "build": "echo \"$SECRET_KEY\""
   },
   "repository": {
     "type": "git",
